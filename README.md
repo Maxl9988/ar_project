@@ -1,5 +1,8 @@
 # ar_project
 
+Mit einer neuen Quest 3 muss erst das folgende setup gemacht werden:
+https://developers.meta.com/horizon/documentation/unity/unity-mr-utility-kit-gs
+
 
 Projektdokumentation:
 
